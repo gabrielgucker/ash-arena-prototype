@@ -1,2 +1,2 @@
 # ash-arena-prototype
-Building a new game to learn Godot by Gabe and Joe
+A new game by Joe and Gabe to learn Godot.
